@@ -14,10 +14,14 @@
  *= require_self
  */
 
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+
 h1{
     
     font-family: 'Raleway', sans-serif;
-    font-style: 300;
+  
     
     
 }
